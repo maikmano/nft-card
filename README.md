@@ -11,12 +11,11 @@ Os usuários devem ser capazes de:
 
 - Visualize o layout ideal independente do tamanho da tela do dispositivo
 - Ter uma pré-visualização do NFT ao clicar na imagem
-- 
+
 ## 🔨 Construido com:
 
 - HTML5
 - CSS
-
 
 ## 👨‍💻 Desenvolvido por:
 
